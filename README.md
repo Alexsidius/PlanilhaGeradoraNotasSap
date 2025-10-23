@@ -21,7 +21,7 @@ Informar:
 
 ## 🛠️ Ferramentas e Tecnologias
 - Excel avançado com criação de formulário com regra de negócio.  
-- Linguagem: VBA (Visual Basic for Applications) para validação de requisitos e sinergia de informações entre excel e SAP.    
+- Linguagem: VBA (Visual Basic for Applications) usando lógica de programação para validação de requisitos e sinergia de informações entre excel e SAP.    
 - Linguagem de script SAP para abertura e prenchimento de transações do sistema SAP;  
 
 ## 🔍 Etapas do Projeto
