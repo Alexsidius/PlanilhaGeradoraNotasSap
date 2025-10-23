@@ -14,7 +14,9 @@ Informar:
 3 - quais materiais necessários com código de cadastro;  
 4 - Efetivo tecnico;  
 5 recursos extra como uso de solda, caminhão munck, etc;  
-6 obervações complementares.
+6 obervações complementares.  
+
+![Imagem da planilha](IMG/NotasDetalhadas.webp)
 
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -33,6 +35,7 @@ Informar:
 ## 🚀 Melhorias adiquiridas pelo uso da ferramenta
 - Efetividade: a planilha checa se todos os campos foram devidamente preenchidos e notifica o usuário para corrigir erro de preenchimento;  
 - Facilidade: com as opções de click unico o uso da planilha tornar a bertura de nota ainda mais rapido do que digitar manualmente;
+  ![Imagem da planilha](IMG/notasDetalhadasCampos.webp)
 - Praticidade: Após todos os checks a planilha abre uma tela do SAP e preenche todas os campos e salva a nota em alguns segundos.
 
 ## 📈 Resultados Principais
