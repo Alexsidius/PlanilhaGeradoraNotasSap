@@ -12,9 +12,9 @@ Informar:
 1 - qual anomalia identificada;  
 2 - qual solução sugerida;  
 3 - quais materiais necessários com código de cadastro;  
-4 - Efetivo tecnico;  
-5 recursos extra como uso de solda, caminhão munck, etc;  
-6 obervações complementares.  
+4 - efetivo tecnico;  
+5 - recursos extra como uso de solda, caminhão munck, etc;  
+6 - obervações complementares.  
 
 ![Imagem da planilha](IMG/NotasDetalhadas.webp)
 
@@ -48,8 +48,7 @@ Informar:
 
 ## 🧭 Próximos Passos
 - Implementar a opção do usuário poder informar o período e a planilha extrair um relatório com lista de notas abertas pelo mesmo num dado período.
-- 
-
+- Criar interação com planilha de itens do almox para usuário consultar lista de peças do estoque.
 
 
 ## 👤 Autor
@@ -58,4 +57,4 @@ Alexandro Grigório Ferreira<br>
 🔗 https://www.linkedin.com/in/alexsidius/<br>
 🔗 https://github.com/Alexsidius<br>
 
-Este projeto faz parte dos meus trabalhos como Analista de manutenção e tem como objetivo demonstrar habilidades práticas de análise e soluções de negócios.
+*Este projeto faz parte dos meus trabalhos como Analista de manutenção e tem como objetivo demonstrar habilidades práticas de análise e soluções de negócios*.
