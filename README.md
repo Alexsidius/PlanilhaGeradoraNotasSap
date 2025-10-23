@@ -30,20 +30,23 @@ Informar:
 5 - Realização de testes e treinamento da equipe;  
 6 - Inplantação e acompanhamento da evolução dos indicadores
 
+## 🚀 Melhorias adiquiridas pelo uso da ferramenta
+- Efetividade: a planilha checa se todos os campos foram devidamente preenchidos e notifica o usuário para corrigir erro de preenchimento;  
+- Facilidade: com as opções de click unico o uso da planilha tornar a bertura de nota ainda mais rapido do que digitar manualmente;
+- Praticidade: Após todos os checks a planilha abre uma tela do SAP e preenche todas os campos e salva a nota em alguns segundos.
 
 ## 📈 Resultados Principais
 - Padronização na abertura de notas com riqueza de informações;
 - Maior celeridade na tratativa das notas pela equipe de PCM por ter maior clareza no entendimento;
 - Fluxo de programação mais claro e eficiente;
 - Melhor objetividade na execução por ter melhor entendimento da anomalia e solução proposta
-- Melhor eficiêncai no fluxo de compras e de requisições do estoque devido a melhor especificação de materiais.
+- Melhor eficiência no fluxo de compras e de requisições do estoque devido a melhor especificação de materiais.
 
 
 ## 🧭 Próximos Passos
-Liste melhorias ou novas etapas que podem ser adicionadas futuramente.
- Exemplo:
-Adicionar dashboard interativo com Streamlit
-Testar novos algoritmos de previsão
+- Implementar a opção do usuário poder informar o período e a planilha extrair um relatório com lista de notas abertas pelo mesmo num dado período.
+- 
+
 
 
 ## 👤 Autor
@@ -52,4 +55,4 @@ Alexandro Grigório Ferreira<br>
 🔗 https://www.linkedin.com/in/alexsidius/<br>
 🔗 https://github.com/Alexsidius<br>
 
-Este projeto faz parte dos meus trabalhos como Analista de manutenção e tem como objetivo demonstrar habilidades práticas de análise e solução de negócios.
+Este projeto faz parte dos meus trabalhos como Analista de manutenção e tem como objetivo demonstrar habilidades práticas de análise e soluções de negócios.
