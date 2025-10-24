@@ -32,7 +32,7 @@ Informar:
 5 - Realização de testes e treinamento da equipe;  
 6 - Inplantação e acompanhamento da evolução dos indicadores
 
-## 🚀 Melhorias adiquiridas pelo uso da ferramenta
+## 🚀 Melhorias adquiridas pelo uso da nova ferramenta (a planilha)
 - Efetividade: a planilha checa se todos os campos foram devidamente preenchidos e notifica o usuário para corrigir erro de preenchimento;  
 - Facilidade: com as opções de click unico o uso da planilha tornar a bertura de nota ainda mais rapido do que digitar manualmente;
   ![Imagem da planilha](IMG/notasDetalhadasCampos.webp)
