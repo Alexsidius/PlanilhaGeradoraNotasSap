@@ -16,7 +16,7 @@ Informar:
 5 - recursos extra como uso de solda, caminhão munck, etc;  
 6 - obervações complementares.  
 
-![Imagem da planilha](NotasDetalhadas.png)
+![Planilha](NotasDetalhadas.png)
 
 
 ## 🛠️ Ferramentas e Tecnologias
