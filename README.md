@@ -17,7 +17,7 @@ Informar:
 6 - obervações complementares.  
 
 ![Planilha](NotasDetalhadas.png)
-
+  
 
 ## 🛠️ Ferramentas e Tecnologias
 - Excel avançado com criação de formulário com regra de negócio.  
@@ -34,8 +34,8 @@ Informar:
 
 ## 🚀 Melhorias adquiridas pelo uso da nova ferramenta (a planilha)
 - Efetividade: a planilha checa se todos os campos foram devidamente preenchidos e notifica o usuário para corrigir erro de preenchimento;  
-- Facilidade: com as opções de click unico o uso da planilha tornar a bertura de nota ainda mais rapido do que digitar manualmente;
-  ![campos](notasDetalhadasCampos.png)
+- Facilidade: com as opções de click unico o uso da planilha tornar a bertura de nota ainda mais rapido do que digitar manualmente;  
+  ![campos](notasDetalhadasCampos.png)  
 - Praticidade: Após todos os checks a planilha abre uma tela do SAP e preenche todas os campos e salva a nota em alguns segundos.
 
 ## 📈 Resultados Principais
