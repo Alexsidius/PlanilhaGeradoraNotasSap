@@ -30,7 +30,7 @@ Informar:
 3 - levantamento de requisitos para eliminar o problema;  
 4 - construção da ferramenta;  
 5 - Realização de testes e treinamento da equipe;  
-6 - Inplantação e acompanhamento da evolução dos indicadores
+6 - Implantação e acompanhamento da evolução dos indicadores
 
 ## 🚀 Melhorias adquiridas pelo uso da nova ferramenta (a planilha)
 - Efetividade: a planilha checa se todos os campos foram devidamente preenchidos e notifica o usuário para corrigir erro de preenchimento;  
